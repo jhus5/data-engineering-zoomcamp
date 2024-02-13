@@ -16,5 +16,5 @@
 	``` 
 -	You will then be taken through the configuration of gcloud. Login when asked by selecting 'Y', a browser window should open with the Google login screen. Login with your google account that you used to sign up to GCP.
 	You should then see:
-	![Screenshot of a logoin success.](/images/gcp2c.png)
+	![Screenshot of a login success.](/images/setup/gcp2c.png)
 3. 
